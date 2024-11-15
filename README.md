@@ -34,9 +34,9 @@ This Android app allows users to easily extract text from images using Optical C
 2. The clean, dark-themed UI is designed for both aesthetics and clarity, with high contrast between buttons and text for easy readability.
 
 
-<img src="https://github.com/Alenaak/ImageTextExtractor/images/1.png" alt="Application Interface" width="600"/>
-<img src="https://github.com/Alenaak/Graph-Plotter-/blob/main/images/2.PNG" alt="Application Interface" width="600"/>
-<img src="https://github.com/Alenaak/Graph-Plotter-/blob/main/images/3.PNG" alt="Application Interface" width="600"/>
+<img src="https://github.com/Alenaak/ImageTextExtractor/blob/main/images/1.png" alt="Application Interface" width="600"/>
+<img src="https://github.com/Alenaak/ImageTextExtractor/blob/main/images/2.png" alt="Application Interface" width="600"/>
+<img src="https://github.com/Alenaak/ImageTextExtractor/blob/main/images/3.png" alt="Application Interface" width="600"/>
 
 ---
 
