@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ImageExtractor" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Your customizations go here -->
+    </style>
+
+</resources>
